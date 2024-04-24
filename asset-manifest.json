@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nagendra-portfilo/static/css/main.aebbda68.css",
+    "main.js": "/nagendra-portfilo/static/js/main.5d4b800e.js",
+    "index.html": "/nagendra-portfilo/index.html",
+    "main.aebbda68.css.map": "/nagendra-portfilo/static/css/main.aebbda68.css.map",
+    "main.5d4b800e.js.map": "/nagendra-portfilo/static/js/main.5d4b800e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aebbda68.css",
+    "static/js/main.5d4b800e.js"
+  ]
+}
